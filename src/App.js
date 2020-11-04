@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-import Resume from "../src/assets/Resume.pdf";
 import Header from "./components/header/Header";
 import Home from "./components/pages/Home";
 import Contact from "./components/pages/Contact";
@@ -13,7 +12,7 @@ function App() {
       <Router
       basename={process.env.PUBLIC_URL}
       >
-        <Header href={Resume}/>
+        <Header/>
         <Route exact path="/" component={Home} />
         <Route exact path="/Home" component={Home} />
         <Route exact path="/Portfolio" component={Portfolio} />

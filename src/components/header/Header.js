@@ -1,9 +1,9 @@
 import React from "react";
 import "../header/header.css"
 import { NavLink } from "react-router-dom";
-import Resume from "../../assets/Resume.pdf"
+import resume from "../header/resume.pdf"
 
-function Header(props) {
+function Header() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light "><span>
       <NavLink to="/" className="title">Garrett Stein-Seroussi</NavLink></span>
@@ -19,7 +19,7 @@ function Header(props) {
       <NavLink className="pageLink" to="/Contact">Contact</NavLink>
       </li>
       <li>
-      <NavLink className="pageLink" to={props.href} download="Stein-Seroussi Resume" target="_blank">Download Resume</NavLink>
+      <NavLink className="pageLink" to={resume} download target="_blank">Download Resume</NavLink>
       </li>
     </ul>
   </div>

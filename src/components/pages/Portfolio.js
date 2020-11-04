@@ -7,6 +7,7 @@ import weatherImg from "../../assets/weather.jpg";
 import empDirectoryImg from "../../assets/Employee-Directory.jpg";
 import burgerImg from "../../assets/Burger-Tracker.jpg";
 import artviamusicImg from "../../assets/ArtViaMusic-thumbnail.jpg";
+import edhImg from "../../assets/EDH.png"
 
 import "./portfolio.css";
 
@@ -27,12 +28,11 @@ function Portfolio() {
           />
           <Project
             key="2"
-            name="Note Taker"
-            github="https://github.com/gsteinseroussi/Note-Taker"
-            deployed="https://arcane-dawn-08999.herokuapp.com/notes"
-            description="A basic note taker app that saves notes to local storage and
-          then allows a user to edit or delete them upon completion."
-            image={notetakerImg}
+            name="Educational Data Stream"
+            github="https://github.com/gsteinseroussi/Educational-Data-Hub"
+            deployed="https://educational-data-stream.herokuapp.com/"
+            description="The goal of the Educational Data Stream is to allow a third party data analyst to view educational research, transform that into usable classroom materials, and directly share those with educators."
+            image={edhImg}
           />
           <Project
             key="3"
@@ -74,6 +74,15 @@ function Portfolio() {
           />
           <Project
             key="7"
+            name="Note Taker"
+            github="https://github.com/gsteinseroussi/Note-Taker"
+            deployed="https://arcane-dawn-08999.herokuapp.com/notes"
+            description="A basic note taker app that saves notes to local storage and
+          then allows a user to edit or delete them upon completion."
+            image={notetakerImg}
+          />
+          <Project
+            key="8"
             name="Menu App"
             github="https://github.com/gsteinseroussi/Burger-Tracker"
             deployed="https://obscure-dusk-37913.herokuapp.com/"
