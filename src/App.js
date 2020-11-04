@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Resume from "../src/assets/resume.pdf";
+import Resume from "../src/assets/Resume.pdf";
 import Header from "./components/header/Header";
 import Home from "./components/pages/Home";
 import Contact from "./components/pages/Contact";

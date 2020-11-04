@@ -1,7 +1,26 @@
 .navbar {
   background-color: rgb(192, 190, 190);
+  height: 4rem;
 }
 
-NavLink {
-  color: black;
+.nav-item {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.title {
+  font-size: 150%;
+  color: rgb(39, 39, 39);
+}
+
+.title:hover {
+  color: rgb(39, 39, 39);
+}
+
+.pageLink {
+  color: rgb(39, 39, 39);
+}
+
+.pageLink:hover {
+  color: rgb(39, 39, 39);
 }
