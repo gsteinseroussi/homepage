@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.37c95300.chunk.css",
+    "main.js": "/homepage/static/js/main.f44f49b8.chunk.js",
+    "main.js.map": "/homepage/static/js/main.f44f49b8.chunk.js.map",
+    "runtime-main.js": "/homepage/static/js/runtime-main.12101619.js",
+    "runtime-main.js.map": "/homepage/static/js/runtime-main.12101619.js.map",
+    "static/js/2.e76b2627.chunk.js": "/homepage/static/js/2.e76b2627.chunk.js",
+    "static/js/2.e76b2627.chunk.js.map": "/homepage/static/js/2.e76b2627.chunk.js.map",
+    "index.html": "/homepage/index.html",
+    "precache-manifest.7702cc97da9e1d91b897f858d9eff4f3.js": "/homepage/precache-manifest.7702cc97da9e1d91b897f858d9eff4f3.js",
+    "service-worker.js": "/homepage/service-worker.js",
+    "static/css/main.37c95300.chunk.css.map": "/homepage/static/css/main.37c95300.chunk.css.map",
+    "static/js/2.e76b2627.chunk.js.LICENSE.txt": "/homepage/static/js/2.e76b2627.chunk.js.LICENSE.txt",
+    "static/media/ArtViaMusic-thumbnail.jpg": "/homepage/static/media/ArtViaMusic-thumbnail.da3a68cf.jpg",
+    "static/media/Burger-Tracker.jpg": "/homepage/static/media/Burger-Tracker.f19b71f5.jpg",
+    "static/media/Employee-Directory.jpg": "/homepage/static/media/Employee-Directory.04dbda25.jpg",
+    "static/media/birdtracker.png": "/homepage/static/media/birdtracker.f47c8506.png",
+    "static/media/notetaker.jpg": "/homepage/static/media/notetaker.421ec7c4.jpg",
+    "static/media/profile_picture.jpg": "/homepage/static/media/profile_picture.f9dd7599.jpg",
+    "static/media/resume.pdf": "/homepage/static/media/resume.0f95e822.pdf",
+    "static/media/weather.jpg": "/homepage/static/media/weather.4504c88e.jpg",
+    "static/media/workday_scheduler.jpg": "/homepage/static/media/workday_scheduler.d11a84c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12101619.js",
+    "static/js/2.e76b2627.chunk.js",
+    "static/css/main.37c95300.chunk.css",
+    "static/js/main.f44f49b8.chunk.js"
+  ]
+}
