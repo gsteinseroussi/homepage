@@ -1,0 +1,9 @@
+#portfolioCard {
+  margin: 1rem;
+
+  width: 15rem;
+}
+
+.card-img-top {
+  height: 10rem;
+}

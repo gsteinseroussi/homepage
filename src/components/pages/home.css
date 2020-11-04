@@ -1,0 +1,25 @@
+.jumbotron {
+  margin-top: 1rem;
+  background-color: #80b4aa88;
+  min-height: 100vh;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+/* .card {
+  margin: auto;
+  word-wrap: normal;
+  position: relative;
+} */
+
+#homeText {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card-img {
+  margin: 0.5rem;
+  float: left;
+  max-width: 25rem;
+  max-height: 25rem;
+}
