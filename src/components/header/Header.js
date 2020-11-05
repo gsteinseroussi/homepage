@@ -3,6 +3,7 @@ import "../header/header.css"
 import { NavLink } from "react-router-dom";
 import resume from "../header/resume.pdf"
 
+
 function Header() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light "><span>
@@ -19,7 +20,8 @@ function Header() {
       <NavLink className="pageLink" to="/Contact">Contact</NavLink>
       </li>
       <li>
-      <NavLink className="pageLink" to={resume} download target="_blank">Download Resume</NavLink>
+      {/* <NavLink className="pageLink" to={resume} download target="_blank">Download Resume</NavLink> */}
+      <a href={resume} download target="_blank" className="resumeLink">Download Resume</a>
       </li>
     </ul>
   </div>

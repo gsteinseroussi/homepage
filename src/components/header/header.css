@@ -1,6 +1,6 @@
 .navbar {
   background-color: rgb(192, 190, 190);
-  height: 4rem;
+  min-height: 4rem;
 }
 
 .nav-item {
@@ -11,6 +11,7 @@
 .title {
   font-size: 150%;
   color: rgb(39, 39, 39);
+  margin-right: 1rem;
 }
 
 .title:hover {
@@ -22,5 +23,14 @@
 }
 
 .pageLink:hover {
+  color: rgb(39, 39, 39);
+}
+
+.resumeLink {
+  color: rgb(39, 39, 39);
+  margin-left: 1rem;
+}
+
+.resumeLink:hover {
   color: rgb(39, 39, 39);
 }
