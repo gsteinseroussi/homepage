@@ -24,10 +24,10 @@ function Home() {
                     contribute to team success through hard work, attention to
                     detail, and excellent organizational skills. I have a clear
                     understanding of front and back end development and training
-                    in JavaScript, HTML, CSS, Node.js, Express, Sequelize, and
-                    more. Having spent many years working in various different
-                    fields, I am now motivated to learn, grow, and excel in a
-                    long term career in computer coding.
+                    in JavaScript, HTML, CSS, Node.js, Express, Sequelize,
+                    React, and more. Having spent many years working in various
+                    different fields, I am now motivated to learn, grow, and
+                    excel in a long term career in computer coding.
                   </p>
                   <br></br>
                   <p className="card-text" id="homeText">
